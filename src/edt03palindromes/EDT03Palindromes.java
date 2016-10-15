@@ -79,7 +79,7 @@ public class EDT03Palindromes {
                 
             }else{
                 return false;
-                break;
+                
               }
         }
         
